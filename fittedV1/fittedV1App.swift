@@ -11,7 +11,9 @@ import SwiftUI
 struct fittedV1App: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            //NavigationView {
+                ContentView()
+           // }
         }
     }
 }
